@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+div{
+	
+}
+
+.body_image
+{
+	background-image: url("images/tyche_main.jpg");
+	height :1200px;
+	width:100%;
+	color:#fff;
+	padding-top: 10px;
+	margin-top:20px;
+	text-align:center;
+}
+.body_title
+{
+	background-color:rgba(0,0,0,0.7);
+	padding:10px 10px;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+.left_column
+{
+	background-color:rgba(0,0,0,0.7);
+	width:20%;
+	height:800px;	
+	float:left;
+	margin:20px;
+	margin-top:50px;
+}
+.middle_column
+{
+	float:left;
+	background-color:rgba(0,0,0,0.7);
+	margin:20px;
+	margin-top:30px;
+	height:800px;
+	width:70%
+}
+.user
+{
+	background-color:rgba(0,0,0,0.7);
+	color:white;
+	margin:10px;
+	float:right;	
+	padding:10px;
+}
+.bottom_bar
+{
+	float:left;
+	background-color:rgba(0,0,0,0.7);
+	width:98%;
+	margin:10px;
+	height:100px;
+}
+.display_item
+{
+   border:1px;
+   float:left;	
+}
+
+	

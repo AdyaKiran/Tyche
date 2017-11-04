@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.left_column
+{
+	background-color:rgba(0,0,0,0.7);
+	width:20%;
+	height:800px;	
+	float:left;
+	margin:20px
+}
+.go_to_profile
+{
+	background-color:rgba(0,0,0,0.7);
+	color:white;
+	padding:5px;
+	margin:2px;	
+	float:right;
+}
